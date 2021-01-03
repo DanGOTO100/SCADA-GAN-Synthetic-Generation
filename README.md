@@ -11,8 +11,9 @@ But...When using larger number of features Gradient Vanishement is observed (as 
 
 
 
-## Sample Synthetic Generated SCADA messages ** 
+## Sample Synthetic Generated SCADA messages 
 
+```
 Synthetic Data set output (Created by GAN):
 
 	Generator Prod Freq Avg 	Generator Prod Volt Phase Avg
@@ -21,14 +22,16 @@ Synthetic Data set output (Created by GAN):
 2 	50.529289 	406.151001
 3 	50.520802 	405.467773
 4 	50.309952 	404.176880
-
+```
 
 
 ## Sample Real SCADA messages from Dataset
 
+```
 	Generator Prod Freq Avg 	Generator Prod Volt Phase Avg
 0 	49.9 	399.5
 1 	50.0 	399.2
 2 	49.9 	400.4
 3 	50.0 	399.2
 4 	50.0 	399.6
+```
